@@ -1,1 +1,3 @@
-print("Hello world")
+class Hello:
+    def init():
+        print("hello")
